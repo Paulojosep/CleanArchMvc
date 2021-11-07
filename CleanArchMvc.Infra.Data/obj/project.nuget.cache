@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VeVx02Xs71h2LgNstZ5cKo2GsLouUHunvGib2KG2nkXXfBARsENQahhsyhivhnwwrQO7gv2MVW8DxtseqGn5Ew==",
+  "dgSpecHash": "wx9Pezpcmrf3iUEXc6tMzVRacwBJ40VTAtu91P7dqBnpuZFK9qxWG2gHKah2DchJFr8scL4IioTuV26OFjBwDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\Documents\\Udemy\\Clean Architecture Essencial - ASP .NET Core com C#\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
