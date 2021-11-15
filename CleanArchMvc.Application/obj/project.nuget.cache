@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h4nsGBFh92nYp8GzMUlkc98Qm1YzK9+bV5InRRFidNZpQ900ZHHI42XyZ/+G4kQrXu3SN13WX3YcU72ArYdQdA==",
+  "dgSpecHash": "H0+R/ina9pztDN4gW00z5z5n4f0LykWhPuUJjKTH+KdjEIdIPEyJlLboZU46cgD18vCvhgoxZohxN+/hTwYDHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\Documents\\Udemy\\Clean Architecture Essencial - ASP .NET Core com C#\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
