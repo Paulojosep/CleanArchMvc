@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CleanArchMvc.Infra.Data.Identity
 {
-    public class ApplicatioUser : IdentityUser
+    public class ApplicationUser : IdentityUser
     {
     }
 }
