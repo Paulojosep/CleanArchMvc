@@ -6,7 +6,7 @@ using System.Text;
 
 namespace CleanArchMvc.Infra.Data.Identity
 {
-    class SeedUserRoleInitial : ISeedUserRoleInitial
+    public class SeedUserRoleInitial : ISeedUserRoleInitial
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
